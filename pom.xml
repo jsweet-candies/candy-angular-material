@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.jsweet.candies</groupId>
 	<artifactId>angular-material</artifactId>
-	<version>1.1.3-SNAPSHOT</version>
+	<version>1.1.3-20170726</version>
 	<properties>
 		<jsweet.transpiler.version>2.0.0</jsweet.transpiler.version>
 	</properties>
